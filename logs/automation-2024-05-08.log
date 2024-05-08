@@ -1,0 +1,49 @@
+23:03:39.597 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:03:39.618 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:03:56.735 [main] INFO  factory.BaseClass - go to url and click on sing in button
+23:04:00.251 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:04:00.252 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:04:00.254 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:05:39.837 [main] INFO  factory.BaseClass - go to url and click on sing in button
+23:05:41.567 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:05:41.571 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:05:41.573 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:05:59.517 [main] INFO  factory.BaseClass - go to url and click on sing in button
+23:06:01.772 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:06:01.774 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:06:01.776 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:06:20.586 [main] INFO  factory.BaseClass - go to url and click on sing in button
+23:06:22.409 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:06:22.410 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:06:22.411 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:06:40.549 [main] INFO  factory.BaseClass - go to url and click on sing in button
+23:06:42.767 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:06:42.768 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:06:42.769 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:38:53.556 [main] INFO  factory.BaseClass - go to url and click on sing in button
+23:38:55.597 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:38:55.600 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:38:55.601 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:27:48.263 [main] INFO  factory.BaseClass - clicks on create an account button
+01:28:32.570 [main] INFO  factory.BaseClass - clicks on create an account button
+17:10:11.005 [main] INFO  factory.BaseClass - clicks on create an account button
+17:12:24.819 [main] INFO  factory.BaseClass - clicks on create an account button
+17:12:28.301 [main] INFO  factory.BaseClass - user filling all the data
+17:13:58.398 [main] INFO  factory.BaseClass - clicks on create an account button
+17:14:00.584 [main] INFO  factory.BaseClass - user filling all the data
+17:42:29.725 [main] INFO  factory.BaseClass - clicks on create an account button
+17:42:31.790 [main] INFO  factory.BaseClass - user filling all the data
+17:52:30.017 [main] INFO  factory.BaseClass - clicks on create an account button
+17:52:32.157 [main] INFO  factory.BaseClass - user filling all the data
+17:53:05.898 [main] INFO  factory.BaseClass - clicks on create an account button
+17:53:07.818 [main] INFO  factory.BaseClass - user filling all the data
+17:56:18.470 [main] INFO  factory.BaseClass - clicks on create an account button
+17:56:20.331 [main] INFO  factory.BaseClass - user filling all the data
+17:56:52.018 [main] INFO  factory.BaseClass - clicks on create an account button
+17:56:54.725 [main] INFO  factory.BaseClass - user filling all the data
+18:05:29.932 [main] INFO  factory.BaseClass - clicks on create an account button
+18:05:32.258 [main] INFO  factory.BaseClass - user filling all the data
+18:07:00.730 [main] INFO  factory.BaseClass - clicks on create an account button
+18:07:03.125 [main] INFO  factory.BaseClass - user filling all the data
+18:07:51.384 [main] INFO  factory.BaseClass - clicks on create an account button
+18:07:53.234 [main] INFO  factory.BaseClass - user filling all the data
