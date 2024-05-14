@@ -5,6 +5,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.Select;
 
+import io.reactivex.rxjava3.functions.Action;
+
 public class CheckoutPage extends BasePage {
 
 	public CheckoutPage(WebDriver driver) {
@@ -109,7 +111,7 @@ public class CheckoutPage extends BasePage {
 	public void setCity(String cityName) {
 		citytextField.sendKeys(cityName);
 	}
-	public void setState(String stateSelect) {
+	public void setState(String stateSelect)  {
 		Select dropdown=new Select(state);
 		dropdown.selectByVisibleText(stateSelect);
 	}

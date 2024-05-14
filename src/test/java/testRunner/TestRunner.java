@@ -9,10 +9,11 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
 				//features = {".//Features"},
 				//features = {".//Features/Login.feature"},
-				features = {".//Features/Login.feature",".//Features/Registration.feature"},
+				//features = {".//Features/Login.feature",".//Features/Registration.feature"},
 				//features = {".//Features/LoginDDtExcel.feature"},
 				//features = {".//Features/Registration.feature"},
 				//features= {"@target/rerun.txt"},
+				features= {".//Features/EndToEnd.feature"},
 				glue="stepDefinitions",
 				plugin = {"pretty","html:reports/myreports.html",
 						"rerun:target/rerun.txt",

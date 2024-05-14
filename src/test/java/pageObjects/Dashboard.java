@@ -42,6 +42,11 @@ public class Dashboard extends BasePage{
 		return signOutButton;
 	}
 	
+	@FindBy(xpath = "//div[@id='search_autocomplete']//li[3]") private WebElement autosuggestionsOption3;
+	public WebElement getAutosuggestionsOption3() {
+		return autosuggestionsOption3;
+	}
+	
 	//Actions method
 	public void clickonSearchField() {
 		searchTextField.click();
@@ -58,6 +63,9 @@ public class Dashboard extends BasePage{
 	}
 	public void clickOnSignOutbutton() {
 		signOutButton.click();
+	}
+	public void clickOnsuggestion3() {
+		autosuggestionsOption3.click();
 	}
 
 }

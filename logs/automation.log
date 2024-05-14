@@ -1,42 +1,42 @@
-22:44:35.706 [main] INFO  factory.BaseClass - clicks on create an account button
-22:44:37.467 [main] INFO  factory.BaseClass - user filling all the data
-22:46:53.901 [main] INFO  factory.BaseClass - clicks on create an account button
-22:46:55.488 [main] INFO  factory.BaseClass - user filling all the data
-22:56:26.984 [main] INFO  factory.BaseClass - go to url and click on sing in button
-22:56:28.772 [main] INFO  factory.BaseClass - user enter credential
-22:56:29.122 [main] INFO  factory.BaseClass - user click on sign in button
-22:56:31.547 [main] INFO  factory.BaseClass - vaerify welcome msg
-22:56:41.467 [main] INFO  factory.BaseClass - clicks on create an account button
-22:56:43.057 [main] INFO  factory.BaseClass - user filling all the data
-22:57:30.729 [main] INFO  factory.BaseClass - clicks on create an account button
-22:57:32.459 [main] INFO  factory.BaseClass - user filling all the data
-23:30:09.357 [main] INFO  factory.BaseClass - go to url and click on sing in button
-23:30:11.278 [main] INFO  factory.BaseClass - user enter credential
-23:30:11.656 [main] INFO  factory.BaseClass - user click on sign in button
-23:30:19.055 [main] INFO  factory.BaseClass - vaerify welcome msg
-23:30:30.228 [main] INFO  factory.BaseClass - clicks on create an account button
-23:30:32.152 [main] INFO  factory.BaseClass - user filling all the data
-23:34:48.443 [main] INFO  factory.BaseClass - go to url and click on sing in button
-23:34:50.915 [main] INFO  factory.BaseClass - user enter credential
-23:34:51.452 [main] INFO  factory.BaseClass - user click on sign in button
-23:34:54.957 [main] INFO  factory.BaseClass - vaerify welcome msg
-23:35:02.797 [main] INFO  factory.BaseClass - clicks on create an account button
-23:35:05.005 [main] INFO  factory.BaseClass - user filling all the data
-23:37:32.338 [main] INFO  factory.BaseClass - go to url and click on sing in button
-23:37:35.273 [main] INFO  factory.BaseClass - user enter credential
-23:37:35.810 [main] INFO  factory.BaseClass - user click on sign in button
-23:37:39.373 [main] INFO  factory.BaseClass - vaerify welcome msg
-23:37:47.392 [main] INFO  factory.BaseClass - clicks on create an account button
-23:37:49.448 [main] INFO  factory.BaseClass - user filling all the data
-23:39:25.398 [main] INFO  factory.BaseClass - go to url and click on sing in button
-23:39:27.671 [main] INFO  factory.BaseClass - user enter credential
-23:39:28.246 [main] INFO  factory.BaseClass - user click on sign in button
-23:39:31.086 [main] INFO  factory.BaseClass - vaerify welcome msg
-23:39:40.480 [main] INFO  factory.BaseClass - clicks on create an account button
-23:39:42.581 [main] INFO  factory.BaseClass - user filling all the data
-23:40:52.732 [main] INFO  factory.BaseClass - go to url and click on sing in button
-23:40:55.238 [main] INFO  factory.BaseClass - user enter credential
-23:40:55.831 [main] INFO  factory.BaseClass - user click on sign in button
-23:41:00.003 [main] INFO  factory.BaseClass - vaerify welcome msg
-23:41:09.698 [main] INFO  factory.BaseClass - clicks on create an account button
-23:41:12.811 [main] INFO  factory.BaseClass - user filling all the data
+14:11:27.290 [main] INFO  factory.BaseClass - verify added msg and edit entering details
+14:21:50.690 [main] INFO  factory.BaseClass - go to url and click on sing in button
+14:21:52.228 [main] INFO  factory.BaseClass - user enter credential
+14:21:52.485 [main] INFO  factory.BaseClass - user click on sign in button
+14:21:54.680 [main] INFO  factory.BaseClass - user enter thhe item name on dashboard
+14:21:56.790 [main] INFO  factory.BaseClass - user click on item 2
+14:21:58.135 [main] INFO  factory.BaseClass - user select size color and qty
+14:22:08.504 [main] INFO  factory.BaseClass - click on add to cart button
+14:22:08.602 [main] INFO  factory.BaseClass - click on cart icon
+14:22:08.778 [main] INFO  factory.BaseClass - click on proceed to checkout
+14:22:11.296 [main] INFO  factory.BaseClass - verify added msg and edit entering details
+14:25:09.729 [main] INFO  factory.BaseClass - go to url and click on sing in button
+14:25:10.792 [main] INFO  factory.BaseClass - user enter credential
+14:25:10.988 [main] INFO  factory.BaseClass - user click on sign in button
+14:25:13.222 [main] INFO  factory.BaseClass - user enter thhe item name on dashboard
+14:25:16.155 [main] INFO  factory.BaseClass - user click on item 2
+14:25:17.412 [main] INFO  factory.BaseClass - user select size color and qty
+14:25:27.817 [main] INFO  factory.BaseClass - click on add to cart button
+14:25:27.910 [main] INFO  factory.BaseClass - click on cart icon
+14:25:28.096 [main] INFO  factory.BaseClass - click on proceed to checkout
+14:29:54.577 [main] INFO  factory.BaseClass - go to url and click on sing in button
+14:29:57.663 [main] INFO  factory.BaseClass - user enter credential
+14:29:57.893 [main] INFO  factory.BaseClass - user click on sign in button
+14:30:02.408 [main] INFO  factory.BaseClass - user enter thhe item name on dashboard
+14:30:07.311 [main] INFO  factory.BaseClass - user click on item 2
+14:30:08.618 [main] INFO  factory.BaseClass - user select size color and qty
+14:30:18.964 [main] INFO  factory.BaseClass - click on add to cart button
+14:30:19.055 [main] INFO  factory.BaseClass - click on cart icon
+14:30:19.239 [main] INFO  factory.BaseClass - click on proceed to checkout
+14:32:29.161 [main] INFO  factory.BaseClass - go to url and click on sing in button
+14:32:30.232 [main] INFO  factory.BaseClass - user enter credential
+14:32:30.468 [main] INFO  factory.BaseClass - user click on sign in button
+14:32:32.811 [main] INFO  factory.BaseClass - user enter thhe item name on dashboard
+14:32:34.940 [main] INFO  factory.BaseClass - user click on item 2
+14:32:36.279 [main] INFO  factory.BaseClass - user select size color and qty
+14:32:46.693 [main] INFO  factory.BaseClass - click on add to cart button
+14:32:46.786 [main] INFO  factory.BaseClass - click on cart icon
+14:32:46.974 [main] INFO  factory.BaseClass - click on proceed to checkout
+14:32:51.060 [main] INFO  factory.BaseClass - verify added msg and edit entering details
+14:32:53.394 [main] INFO  factory.BaseClass - click on next button
+14:32:53.457 [main] INFO  factory.BaseClass - clcik on Place your order button
+14:32:59.187 [main] INFO  factory.BaseClass - verify success msg

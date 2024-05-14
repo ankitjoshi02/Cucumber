@@ -1,0 +1,66 @@
+13:05:13.689 [main] INFO  factory.BaseClass - user enter credential
+13:05:13.953 [main] INFO  factory.BaseClass - user click on sign in button
+13:05:16.383 [main] INFO  factory.BaseClass - user enter thhe item name on dashboard
+13:05:18.533 [main] INFO  factory.BaseClass - user click on item 2
+13:05:19.869 [main] INFO  factory.BaseClass - user select size color and qty
+13:05:30.247 [main] INFO  factory.BaseClass - click on add to cart button
+13:05:30.351 [main] INFO  factory.BaseClass - click on cart icon
+13:05:30.549 [main] INFO  factory.BaseClass - click on proceed to checkout
+13:05:33.013 [main] INFO  factory.BaseClass - verify added msg and edit entering details
+13:13:07.643 [main] INFO  factory.BaseClass - go to url and click on sing in button
+13:13:08.766 [main] INFO  factory.BaseClass - user enter credential
+13:13:08.993 [main] INFO  factory.BaseClass - user click on sign in button
+13:13:11.210 [main] INFO  factory.BaseClass - user enter thhe item name on dashboard
+13:13:13.284 [main] INFO  factory.BaseClass - user click on item 2
+13:13:14.621 [main] INFO  factory.BaseClass - user select size color and qty
+13:13:25.019 [main] INFO  factory.BaseClass - click on add to cart button
+13:13:25.116 [main] INFO  factory.BaseClass - click on cart icon
+13:13:25.322 [main] INFO  factory.BaseClass - click on proceed to checkout
+13:13:27.857 [main] INFO  factory.BaseClass - verify added msg and edit entering details
+13:19:52.473 [main] INFO  factory.BaseClass - go to url and click on sing in button
+13:19:53.603 [main] INFO  factory.BaseClass - user enter credential
+13:19:53.810 [main] INFO  factory.BaseClass - user click on sign in button
+13:19:56.596 [main] INFO  factory.BaseClass - user enter thhe item name on dashboard
+13:19:58.860 [main] INFO  factory.BaseClass - user click on item 2
+13:20:00.160 [main] INFO  factory.BaseClass - user select size color and qty
+13:20:10.553 [main] INFO  factory.BaseClass - click on add to cart button
+13:20:10.651 [main] INFO  factory.BaseClass - click on cart icon
+13:20:10.853 [main] INFO  factory.BaseClass - click on proceed to checkout
+13:20:15.310 [main] INFO  factory.BaseClass - verify added msg and edit entering details
+13:24:20.886 [main] INFO  factory.BaseClass - go to url and click on sing in button
+13:24:21.912 [main] INFO  factory.BaseClass - user enter credential
+13:24:22.145 [main] INFO  factory.BaseClass - user click on sign in button
+13:24:27.696 [main] INFO  factory.BaseClass - user enter thhe item name on dashboard
+13:24:29.773 [main] INFO  factory.BaseClass - user click on item 2
+13:24:31.103 [main] INFO  factory.BaseClass - user select size color and qty
+13:24:41.476 [main] INFO  factory.BaseClass - click on add to cart button
+13:24:41.568 [main] INFO  factory.BaseClass - click on cart icon
+13:24:41.730 [main] INFO  factory.BaseClass - click on proceed to checkout
+13:24:44.464 [main] INFO  factory.BaseClass - verify added msg and edit entering details
+14:03:46.246 [main] INFO  factory.BaseClass - go to url and click on sing in button
+14:03:47.442 [main] INFO  factory.BaseClass - user enter credential
+14:03:47.683 [main] INFO  factory.BaseClass - user click on sign in button
+14:03:50.582 [main] INFO  factory.BaseClass - user enter thhe item name on dashboard
+14:03:52.957 [main] INFO  factory.BaseClass - user click on item 2
+14:03:54.210 [main] INFO  factory.BaseClass - user select size color and qty
+14:04:04.655 [main] INFO  factory.BaseClass - click on add to cart button
+14:04:04.785 [main] INFO  factory.BaseClass - click on cart icon
+14:04:04.974 [main] INFO  factory.BaseClass - click on proceed to checkout
+14:06:31.185 [main] INFO  factory.BaseClass - go to url and click on sing in button
+14:06:32.215 [main] INFO  factory.BaseClass - user enter credential
+14:06:32.422 [main] INFO  factory.BaseClass - user click on sign in button
+14:06:35.677 [main] INFO  factory.BaseClass - user enter thhe item name on dashboard
+14:06:39.150 [main] INFO  factory.BaseClass - user click on item 2
+14:06:40.801 [main] INFO  factory.BaseClass - user select size color and qty
+14:06:51.223 [main] INFO  factory.BaseClass - click on add to cart button
+14:06:51.302 [main] INFO  factory.BaseClass - click on cart icon
+14:06:51.482 [main] INFO  factory.BaseClass - click on proceed to checkout
+14:11:07.026 [main] INFO  factory.BaseClass - go to url and click on sing in button
+14:11:08.172 [main] INFO  factory.BaseClass - user enter credential
+14:11:08.421 [main] INFO  factory.BaseClass - user click on sign in button
+14:11:10.651 [main] INFO  factory.BaseClass - user enter thhe item name on dashboard
+14:11:12.772 [main] INFO  factory.BaseClass - user click on item 2
+14:11:14.161 [main] INFO  factory.BaseClass - user select size color and qty
+14:11:24.557 [main] INFO  factory.BaseClass - click on add to cart button
+14:11:24.657 [main] INFO  factory.BaseClass - click on cart icon
+14:11:24.858 [main] INFO  factory.BaseClass - click on proceed to checkout

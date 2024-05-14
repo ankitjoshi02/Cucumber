@@ -6,7 +6,7 @@ Feature: Account Registration
     When the user enters the detail info below field
       | firstname        | Ankit            |
       | lastname         | Joshi            |
-      | email            | ankit12@dsfds.com |
+      | email            | ankit14@dsfds.com|
       | password         | Test@123         |
       | confirm password | Test@123         |
     And user click on Creat an account button

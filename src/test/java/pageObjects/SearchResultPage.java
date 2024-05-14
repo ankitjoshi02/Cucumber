@@ -15,11 +15,20 @@ public class SearchResultPage extends BasePage{
 	public WebElement getItem1() {
 		return item1;
 	}
+	@FindBy(xpath = "//img[@alt='Aether Gym Pant ']") private WebElement item2;
+	public WebElement getItem2() {
+		return item2;
+	}
 	
 	//Actions methods
 	public void clickOnItem() {
 		action.click(item1).perform();
 	}
+	public void clickOnItme2() {
+		action.click(item2).perform();
+	}
+	
+	
 	
 
 }
